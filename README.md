@@ -3,3 +3,4 @@ Repository containing portfolio of programming projects completed by me for acad
 
 ## Contents
 
+- ### Python Projects
